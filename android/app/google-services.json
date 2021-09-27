@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "202036693458",
+    "firebase_url": "https://alfaland-217509.firebaseio.com",
+    "project_id": "alfaland-217509",
+    "storage_bucket": "alfaland-217509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202036693458:android:296cfa12f76f5bf40c200b",
+        "android_client_info": {
+          "package_name": "com.alfaland.approval"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202036693458-55gh62v6mb8af2fjom319kg09h1r7utt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdSGM3u0n2KcppriAhlrhESmd6DDo7hdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202036693458-55gh62v6mb8af2fjom319kg09h1r7utt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202036693458:android:154dbc58e61a4d4b0c200b",
+        "android_client_info": {
+          "package_name": "com.alfaland.meter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202036693458-55gh62v6mb8af2fjom319kg09h1r7utt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdSGM3u0n2KcppriAhlrhESmd6DDo7hdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202036693458-55gh62v6mb8af2fjom319kg09h1r7utt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
